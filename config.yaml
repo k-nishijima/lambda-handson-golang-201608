@@ -1,0 +1,7 @@
+dynamo:
+  profile: lambda-handson-201608
+  region: ap-northeast-1
+  endpoint: dynamodb.ap-northeast-1.amazonaws.com
+
+dev:
+  contactTable: handson-contact

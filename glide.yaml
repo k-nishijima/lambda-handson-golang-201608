@@ -1,0 +1,8 @@
+package: github.com/k-nishijima/lambda-handson
+import:
+- package: github.com/aws/aws-sdk-go
+  subpackages:
+  - aws
+- package: github.com/spf13/viper
+- package: github.com/asaskevich/govalidator
+- package: github.com/pkg/errors
